@@ -2,6 +2,14 @@
   "files.associations": {
     "vector": "cpp",
     "ostream": "cpp",
-    "string_view": "cpp"
+    "string_view": "cpp",
+    "barrier": "cpp",
+    "chrono": "cpp",
+    "random": "cpp",
+    "latch": "cpp",
+    "limits": "cpp",
+    "semaphore": "cpp",
+    "valarray": "cpp",
+    "string": "cpp"
   }
 }
